@@ -9,4 +9,5 @@
 | [Soluton13.java](https://github.com/Hollake/Algorithm/blob/master/Soluton13.java) | [调整数组顺序使奇数位于偶数前面](https://github.com/Hollake/Algorithm/commit/835160b9d1e145612bc2d91b5f8cf780800c7620) |
 | [FindGreatestSumOfSubArray.java](https://github.com/Hollake/Algorithm/blob/master/FindGreatestSumOfSubArray.java) | [连续子数组的最大和](https://github.com/Hollake/Algorithm/commit/ea4ad67256e2584a265589bb7fd746fb571346e3) |
 | [ZX.java](https://github.com/Hollake/Algorithm/blob/master/ZX.java) | [中兴员工薪水排序](https://github.com/Hollake/Algorithm/commit/682ac76b050a9f61d2e52b518858ac8438dc9bd0) |
+| [LRUCache.java](https://github.com/Hollake/Algorithm/blob/master/LRUCache.java) | [使用LinkedHashMap实现LRU算法](https://github.com/Hollake/Algorithm/commit/495d735c0c840f5d56121bd19009b3b6a9fa7e8c) |
 
